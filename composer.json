@@ -1,0 +1,27 @@
+{
+  "name": "iqnote/bamboo",
+  "description": "iqnote bamboo 2.0",
+  "authors": [
+    {
+      "name": "Zhaoshi Li",
+      "email": "lzs_neu@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "require-dev": {
+    "phploc/phploc": "2.0.*",
+    "pdepend/pdepend": "1.1.*",
+    "phpmd/phpmd": "1.5.*",
+    "squizlabs/php_codesniffer": "1.5.*",
+    "sebastian/phpcpd": "2.0.*",
+    "phpunit/phpunit": "3.7.*",
+    "theseer/phpdox": "0.7.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "IQnote\\Bamboo\\": "src"
+    }
+  }
+}

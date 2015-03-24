@@ -1,0 +1,10 @@
+### php ###
+/vendor
+composer.phar
+cache.properties
+
+### OSX ###
+.DS_Store
+
+# IntelliJ IDEA/PhpStorm
+/.idea/

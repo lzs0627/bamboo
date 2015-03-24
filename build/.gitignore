@@ -1,0 +1,4 @@
+*/*
+!gitignore
+!phpdox.xml
+!phpmd.xml
